@@ -1,7 +1,6 @@
 import webbrowser
 import getpass
 import os,requests,sys,time,datetime
-webbrowser.open('https://t.me/uiujq')
 print(f""" 
 ⣿⣿⣿⣿⢿⠛⢛⠿⠉⠉⠉⡉⢙⣻⠻⠻⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⠟⢁⡠⠀⠄⠀⠀⠀⠉⠙⠒⠃⠾⠹⣲⡘⠿⣿⣿⣿
